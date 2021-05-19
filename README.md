@@ -9,7 +9,7 @@ The following assessments were conducted:
 - Applied Risk Prevention and Risk Response (Resilience) Strategies; added missing M-O-T controls, calculated the residual risk, and created a Risk Management Plan for HGA
 
 ## Real-World Company Assessment 
-Next, a Real-world company is selected. The name of the company is not mentioned here for obvious reasons. I have contacted a company representative and with their help, determined a list of critical assets with $ values, potential threats, potential vulnerabilities, potential risks, and current M-O-T controls (Management, Operational, and Technical); Risks have been identified for the assets and residual risk calculated.
+Next, a Real-world company is selected. The name of the company is not mentioned here for obvious reasons. I have contacted a company representative and with their help, determined a list of critical assets with $ values, potential threats, potential vulnerabilities, potential risks, and current M-O-T (Management, Operational, and Technical) controls; Risks have been identified for the assets and the residual risks calculated.
 
 List of recommended Prevention controls and policies are created to reduce vulnerability probabilities and thus mitigate the identified risks – Risk Prevention Strategy.
 
